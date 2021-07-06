@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "testwild-ef836"
+  },
+  "targets": {
+    "testwild-ef836": {
+      "hosting": {
+        "wildTest": [
+          "testwild-ef836"
+        ]
+      }
+    }
+  }
+}
